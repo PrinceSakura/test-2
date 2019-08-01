@@ -1,2 +1,3 @@
 # test-2
-backup 1
+Hai nama saya Sakura
+watashi no namae wa sakura desu.
